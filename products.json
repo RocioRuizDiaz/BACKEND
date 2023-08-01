@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Kuroko No Basket",
+        "price": 1500,
+        "thumbnail": "https://mangaplus.shueisha.co.jp/drm/title/100137/title_thumbnail_portrait_list/147667.jpg?key=745e01a71234e7ea52460c66a29e4f70&duration=86400",
+        "id": 1
+      },
+
+      {
+        "title": "Bleach",
+        "price": 2000,
+        "thumbnail": "https://mangaplus.shueisha.co.jp/drm/title/100004/title_thumbnail_portrait_list/7969.jpg?key=b278630c501c8b177766f69b7c59c460&duration=86400",
+        "id": 2
+      },
+
+      {
+        "title": "Hell's Paradise",
+        "price": 1900,
+        "thumbnail": "https://mangaplus.shueisha.co.jp/drm/title/200104/title_thumbnail_portrait_list/260936.jpg?key=af1c2d41458dca71e8889991d4536889&duration=86400",
+        "id": 3
+      }
+]
