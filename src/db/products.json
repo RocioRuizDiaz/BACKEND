@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "title": "Attack on Titan",
+      "description": "A story of humanity's struggle for survival against giant humanoid creatures.",
+      "stock": 50,
+      "code": "AOT001"
+    },
+    {
+      "id": 2,
+      "title": "My Hero Academia",
+      "description": "Follows the story of a boy born without superpowers in a world where they are the norm.",
+      "stock": 30,
+      "code": "MHA002"
+    },
+    {
+      "id": 3,
+      "title": "One Piece",
+      "description": "The adventures of Monkey D. Luffy and his pirate crew in search of the One Piece treasure.",
+      "stock": 20,
+      "code": "OP003"
+    },
+    {
+      "id": 4,
+      "title": "Naruto",
+      "description": "A young ninja seeks recognition and dreams of becoming the Hokage, the leader of his village.",
+      "stock": 40,
+      "code": "NRT004"
+    },
+    {
+      "id": 5,
+      "title": "Demon Slayer",
+      "description": "Follows Tanjiro Kamado's journey to become a demon slayer after his family is slaughtered by demons.",
+      "stock": 25,
+      "code": "DS005"
+    },
+    {
+      "id": 6,
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "description": "The story of two brothers who use alchemy in their quest to find the Philosopher's Stone.",
+      "stock": 15,
+      "code": "FMAB006"
+    },
+    {
+      "id": 7,
+      "title": "Death Note",
+      "description": "A high school student discovers a supernatural notebook that allows him to kill anyone by writing their name in it.",
+      "stock": 10,
+      "code": "DN007"
+    },
+    {
+      "id": 8,
+      "title": "Sword Art Online",
+      "description": "Players trapped in a virtual reality MMORPG must clear the game to escape, or they will die in real life.",
+      "stock": 35,
+      "code": "SAO008"
+    },
+    {
+      "id": 9,
+      "title": "Dragon Ball Z",
+      "description": "Follows the adventures of Goku and his friends as they defend Earth against various villains.",
+      "stock": 50,
+      "code": "DBZ009"
+    },
+    {
+      "id": 10,
+      "title": "Cowboy Bebop",
+      "description": "Bounty hunters in the year 2071 travel the galaxy in pursuit of dangerous criminals.",
+      "stock": 5,
+      "code": "CB010"
+    }
+  ]
+  
